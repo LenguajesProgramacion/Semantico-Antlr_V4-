@@ -1,0 +1,20 @@
+entero numero, olga = 3, nano;
+real flota, decimal = 4.0;
+cadena cade, char = 'h4';
+entero fact(entero x, cadena c, real f)
+{	
+	entero lo_co_;
+	loco = 'ho\'nene\'lan\n';
+	hacer {
+		si no ((a+c+4) ==( loco == 4 )) entonces{
+			
+			leer(miVariable);
+			escribir( x-1==2 );
+			borrar();
+		}
+		si_no
+			loco = nena;
+	}mientras no loco == nena
+
+	retornar loco+4+fact(x,7,9+fact(z));
+}
